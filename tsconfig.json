@@ -4,7 +4,10 @@
 		"module": "commonjs",
 		"target": "es5",
 		"noImplicitAny": true,
-		"outDir": "dist"
+		"outDir": "dist",
+		"sourceMap": false,
+		"moduleResolution": "node"
+    
 	},
 	"files": [
 		"src/index.ts",
