@@ -10,5 +10,5 @@ var Amcode;
         };
         return PrinterJob;
     }());
-    Amcode.PrinterJob = PrinterJob;
+    exports.default = PrinterJob;
 })(Amcode || (Amcode = {}));

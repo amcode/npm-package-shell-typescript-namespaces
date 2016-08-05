@@ -1,9 +1,7 @@
 namespace Amcode {
-    export class PrinterJob implements IPrinterJob {
-        constructor() {
-            console.log('constructor call on Printer Job');
-        }
+    export default class PrinterJob implements IPrinterJob {
         sendPrintJob(msg: string) {
+            // Create Printer to print the message
             var p = new Printer();
             p.printMsg(msg);
         }

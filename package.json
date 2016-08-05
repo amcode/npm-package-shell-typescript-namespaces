@@ -16,7 +16,5 @@
   "bugs": {
     "url": "https://github.com/amcode/npm-package-shell-typescript-webpack/issues"
   },
-  "homepage": "https://github.com/amcode/npm-package-shell-typescript-webpack#readme",
-  "devDependencies": {
-  }
+  "homepage": "https://github.com/amcode/npm-package-shell-typescript-webpack#readme"
 }
