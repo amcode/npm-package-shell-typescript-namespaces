@@ -1,5 +1,3 @@
-declare namespace Amcode {
-    interface IPrinterJob {
-        sendPrintJob(msg: string): void;
-    }
+export interface IPrinterJob {
+    sendPrintJob(msg: string): void;
 }

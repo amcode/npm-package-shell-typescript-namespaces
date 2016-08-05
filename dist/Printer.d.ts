@@ -1,6 +1,5 @@
-declare namespace Amcode {
-    class Printer implements IPrinter {
-        constructor();
-        printMsg(msg: string): void;
-    }
+import { IPrinter } from "./IPrinter";
+export declare class Printer implements IPrinter {
+    constructor();
+    printMsg(msg: string): void;
 }

@@ -1,5 +1,3 @@
-namespace Amcode {
-    export interface IPrinter {
-        printMsg(msg: string): void;
-    }
+export interface IPrinter {
+    printMsg(msg: string): void;
 }
