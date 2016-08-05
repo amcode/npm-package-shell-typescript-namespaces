@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-shell-typescript-webpack",
+  "name": "npm-package-shell-typescript-namespaces",
   "version": "1.0.0",
   "description": "NPM Typescript Package Shell project with bundling from Webpack",
   "main": "dist/index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amcode/npm-package-shell-typescript-webpack.git"
+    "url": "git+https://github.com/amcode/npm-package-shell-typescript-namespaces.git"
   },
   "author": "Allan Muller",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amcode/npm-package-shell-typescript-webpack/issues"
+    "url": "https://github.com/amcode/npm-package-shell-typescript-namespaces/issues"
   },
-  "homepage": "https://github.com/amcode/npm-package-shell-typescript-webpack#readme"
+  "homepage": "https://github.com/amcode/npm-package-shell-typescript-namespaces#readme"
 }
